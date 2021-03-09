@@ -7,7 +7,7 @@ Baekjoon, Programmers, Swea 등에서 Baekjoon 기준 from 실버 to 골드인 �
 
 
 ## 👉 2.  How
--`Pull Request` 자기 계정으로 해당 Repository fork 하기
+`Pull Request` 자기 계정으로 해당 Repository fork 하기
 
 - 각자 1문제 씩 추천하여 문제 선정
 - 매주 최소 3문제씩 문제 풀이
