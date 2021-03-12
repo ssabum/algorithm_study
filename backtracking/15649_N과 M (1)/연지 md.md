@@ -1,4 +1,4 @@
-# [백준] 15649. N과 M (1)
+# 15649번 N과 M (1)
 
 [문제 보러가기](https://www.acmicpc.net/problem/15649)
 
