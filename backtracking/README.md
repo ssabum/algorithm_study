@@ -1,7 +1,5 @@
 # Backtracking (백트래킹)
 
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
-
 백트래킹 문제를 뽑았습니다.
 
 백트래킹의 기본 연습 문제인 N과 M 시리즈 모든 문제를 추천 문제로 뽑았습니다.

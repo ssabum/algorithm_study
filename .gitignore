@@ -1,2 +1,5 @@
 .gitkeep
 .DS_Store
+a.out
+input
+*.class

@@ -1,5 +1,3 @@
-[메인으로 돌아가기](https://github.com/tony9402/baekjoon)
-
 ### 최근 코딩테스트 정리
 
 |회사|알고리즘|
