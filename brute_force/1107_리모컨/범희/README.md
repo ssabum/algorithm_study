@@ -33,7 +33,6 @@ print(cnt)
 ## 🅰 &연산자 사용
 
 ```python
-![1107](../../../../../../../../Users/qqq96/Desktop/1107.PNG)import sys
 n = int(sys.stdin.readline())
 m = int(sys.stdin.readline())
 li = set(list(sys.stdin.readline().split()))
