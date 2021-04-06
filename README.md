@@ -1,103 +1,181 @@
-# Algorithm Study 😎
-![](README.assets/img.gif)
+🎈 알고리즘 스터디
+====================================
+
+**팀장 : `김윤빈`**
+
+**팀원 : `권예빈`,`김보민`,`김영균`**
+
+**졸업자 : `정예울`**
+
+<br>
+
+---
+
+## 🎉INTRO
+
+-	💁 누가? : SSAFY_계란3반
+-	🐍 무엇을? : [백준](https://www.acmicpc.net/) , [SWEA](https://swexpertacademy.com/main/code/problem/problemList.do) 알고리즘 문제
+-	⏰ 언제? : 매주 화요일 20:00 ~ , 목요일 20:00 ~
+-	🏛 어디서? : Webex / Discord
+-	✏️ 어떻게? : 일주일에 4문제를 풀고 `코드리뷰`를 합니다.
+
+<br>
+
+---
+
+## ❗❗ 깃허브 올리는 방법❗❗
+
+- [🐣튜토리얼](files/tutorial.md)을 진행하는 것으로 스터디에 참여해보세요!
+
+- 출제자 : README.md에 주차별 문제 링크 추가하기
+
+  ​				**``Study/week_x/문제번호_문제이름/자기이름/input.txt``** 넣어서 깃헙에 올리기
+
+- 출제자 외 :  튜토리얼 따라하기
+
+<br>
+
+---
+
+## 👻 스터디 진행 규칙
+
+1. **스터디 시작 전에는 문제를 깃허브에 올리기** ❗️
+2. **파일 이름은 ``BOJ_문제번호_문제이름.py``, ``swea_문제번호_문제이름.py``로 통일한다** ❗️
+3. **파일 이름 규칙 (예시)**
+   1. <span style="color:red">BOJ_1004_문제 이름.py</span>
+   2. <span style="color:red">SWEA_1004_문제 이름.py</span>
+4. **문제 풀고 어려운 점, 느낀점 `README.md` 작성하기**
+
+<br>
+
+---
+
+## 📅 스터디 진행
+
+### [1주차](Study/Week_1)
+
+- (21.02.16)
+
+  [SWEA_1961_숫자 배열 회전](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Pq-OKAVYDFAUq&categoryId=AV5Pq-OKAVYDFAUq&categoryType=CODE&problemTitle=1961&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_1954_달팽이 숫자](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PobmqAPoDFAUq&categoryId=AV5PobmqAPoDFAUq&categoryType=CODE&problemTitle=1954&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
+
+- (21.02.18)
+
+  [SWEA_1216_회문2](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14Rq5aABUCFAYi&categoryId=AV14Rq5aABUCFAYi&categoryType=CODE&problemTitle=1216&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_2805_농작물 수확하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GLXqKAWYDFAXB&categoryId=AV7GLXqKAWYDFAXB&categoryType=CODE&problemTitle=2805&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+- (21.02.21)
+
+  [SWEA_1234_비밀번호](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14_DEKAJcCFAYD&categoryId=AV14_DEKAJcCFAYD&categoryType=CODE&problemTitle=1234&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_1974_스도쿠 검증](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5Psz16AYEDFAUq&categoryId=AV5Psz16AYEDFAUq&categoryType=CODE&problemTitle=1974&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+### [2주차](Study/Week_2)
+
+- (21.02.23)
+
+  [SWEA_1289_원재의 메모리 복구하기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV19AcoKI9sCFAZN&categoryId=AV19AcoKI9sCFAZN&categoryType=CODE&problemTitle=1289&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_3499_퍼펙트 셔플](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWGsRbk6AQIDFAVW&categoryId=AWGsRbk6AQIDFAVW&categoryType=CODE&problemTitle=3499&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+- (21.02.25)
+
+  [SWEA_2007_패턴 마디의길이](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5P1kNKAl8DFAUq&categoryId=AV5P1kNKAl8DFAUq&categoryType=CODE&problemTitle=2007&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_1225_암호 생성기](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV14uWl6AF0CFAYD&categoryId=AV14uWl6AF0CFAYD&categoryType=CODE&problemTitle=1225&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+### [3주차](Study/Week_3)
+
+- (21.03.02)
+
+  [SWEA_2814_최장경로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV7GOPPaAeMDFAXB&categoryId=AV7GOPPaAeMDFAXB&categoryType=CODE&problemTitle=2814&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1&&&&&&&&&)
+
+  [SWEA_1493_수의 새로운연산](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV2b-QGqADMBBASw&categoryId=AV2b-QGqADMBBASw&categoryType=CODE&problemTitle=1493&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+- (21.03.04)
+
+  [BOJ_6603_로또](https://www.acmicpc.net/problem/6603)
+
+  [BOJ_17478_재귀함수가 뭔가요](https://www.acmicpc.net/problem/17478)
+
+- (21.03.07)
+
+  [BOJ_1074_Z](https://www.acmicpc.net/problem/1074)
+
+  [BOJ_11729_하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)
+
+### [4주차](Study/Week_4)
+
+- (21.03.09)
+
+  [BOJ_2504_괄호의 값](https://www.acmicpc.net/problem/2504)
+
+  [BOJ_14888_연산자 끼워넣기](https://www.acmicpc.net/problem/14888)
+
+- (21.03,14)
+
+  [SWEA_5215_햄버거 다이어트](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWT-lPB6dHUDFAVT&categoryId=AWT-lPB6dHUDFAVT&categoryType=CODE&problemTitle=5215&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_4299_태혁이의 사랑은 타이밍](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWLv6mx6htoDFAVV&categoryId=AWLv6mx6htoDFAVV&categoryType=CODE&problemTitle=4299&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+### [5주차](Study/Week_5)
+
+- (21.03.16)
+
+  [BOJ_17070_파이프 옮기기](https://www.acmicpc.net/problem/17070)
+
+  [BOJ_17281_야구](https://www.acmicpc.net/problem/17281)
+
+### [6주차](Study/Week_6)
+
+- (21.03.29)
+
+  [SWEA_1244_최대상금](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15Khn6AN0CFAYD&categoryId=AV15Khn6AN0CFAYD&categoryType=CODE&problemTitle=1244&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_10580_전봇대](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AXO8QBw6Qu4DFAXS&categoryId=AXO8QBw6Qu4DFAXS&categoryType=CODE&problemTitle=10580&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_1249_보급로](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV15QRX6APsCFAYD&categoryId=AV15QRX6APsCFAYD&categoryType=CODE&problemTitle=1249&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+  [SWEA_2117_홈 방법 서비스](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu&categoryId=AV5V61LqAf8DFAWu&categoryType=CODE&problemTitle=2117&orderBy=FIRST_REG_DATETIME&selectCodeLang=ALL&select-1=&pageSize=10&pageIndex=1)
+
+### [7주차](Study/Week_7)
+
+- (21.04.04)
+
+  [BOJ_1002_터렛](https://www.acmicpc.net/problem/1002)
+
+  [BOJ_9375_패션왕 신해빈](https://www.acmicpc.net/problem/9375)
+
+  [BOJ_1969_DNA](https://www.acmicpc.net/problem/1969)
+
+  [BOJ_1475_방 번호](https://www.acmicpc.net/problem/1475)
 
 
-## 👉 1. What
-Baekjoon, Programmers, Swea 등에서 Baekjoon 기준 from 실버 to 골드인 문제를 선별해서 풉니다. 
+### [8주차](Study/Week_8)
+
+- (21.04.08)
+
+  [BOJ_8012_한동이는 영업사원](https://www.acmicpc.net/problem/8012)
+
+  [BOJ_1764_듣보잡](https://www.acmicpc.net/problem/1764)
+
+<br>
+
+## 👀 프로필
 
 
-## 👉 2.  How
-`Pull Request` 자기 계정으로 해당 Repository fork 하기
-
-- [solved.ac](https://solved.ac/)에서 `class3`부터 차례대로 문제풀이 진행
-- 매주 최소 3문제씩 문제 풀이
-
-## 👉 3. Convention
-저희는 다음과 같은 Convention을 지키는 걸 지향합니다
-
-### ✅  Code Convention
-#### ❗ README.md 에 코드 마다 이 코드는 **어떤 목적**으로 작성되었는지 주석을 답니다.
-#### 변수와 함수 이름은 어떤 역할을 하는지 알 수 있도록 붙입니다.
-
-#### 문제를 해결한 경우 sol1, 해결하지 못한 경우 fail1로 파일 이름을 통일합니다.
-
-#### code 마지막 줄에는 한 줄을 비웁니다. git add + git commit 하기 전에 확인해보는 걸 추천합니다.
-
-왜 ? git에 코드를 올릴 때는 코드 맨 아래에 아무것도 없는 빈 newline을 하나 만드는 게 일반적입니다.
-
-코드 맨 아래에 빈 newline이 없을 경우 경고 메시지가 나오기 때문입니다.
-
-### ✅ Commit Convention
-
-#### commit message는 commit type에 맞게 분리하는 걸 지향합니다.
-```
-docs : README.md 등 문서 작성 및 수정
-code : 코드 작성
-fix : 코드 수정
-add : 기존에 푼 문제 대한 또 다른 솔루션 코드 추가
-merge : 내 레포에서 올린 pull request를 현재 organization의 alogorithm-study 레포에 합치기
-```
-#### commit type이 `code`인 경우 commit message에는 다음과 같은 정보를 명시합니다.
-
-```bash
-git commit -m "code : 자기이름 문제플랫폼 문제번호 문제유형 문제이름"  
-```
-#### [예시]
-
-민수라는 사람이 있습니다. 민수의 branch명은 minsu입니다. 민수는 백준에서 다이나믹 프로그래밍 유형인 1003번 피보나치 함수를 풀었습니다.
-
-1. 문제유형에 맞는 폴더를 생성한 후, 자신의 브랜치명의 폴더를 만듭니다.
-
-   📁 `dynamic_programming/1003_피보나치 함수/민수/`
-
-2. 그 폴더 안에 코드와 마크다운, input 등 필요한 파일들을 넣습니다.
-3. 자신의 폴더를 하나의 커밋으로 업로드합니다.
-
-```bash
-git add 민수/
-git commit -m "code : minsu boj 1003 DP 피보나치함수"
-```
-4. 추후 수정이 필요한 경우 위의 Commit Convention을 따라 commit message를 작성합니다.
-
-5. master 로 merge 합니다.
-
-### ✅ Commit Convention
-#### Commit 을 진행할 때는 자신의 branch에서 수행하고 추후에 master에 merge하는 과정을 지향합니다.
-```bash
-# minsu 브랜치 처음 생성 및 이동
-(master) $ git switch -c minsu
-
-# 브랜치 이름 바뀐 것 확인
-(minsu) $ ...
-```
+<div align = "center">
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/kwonay11"><img src="https://avatars.githubusercontent.com/u/50578895?v=4" width="100px;" alt=""/><br /><sub><b>예빈</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/bomin1"><img src="https://avatars.githubusercontent.com/u/73024054?v=4" width="100px;" alt=""/><br /><sub><b>보민</b><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></sub></a><br /></td>
+    <td align="center"><a href="https://github.com/zero-bacteria"><img src="https://avatars.githubusercontent.com/u/77529078?v=4" width="100px;" alt=""/><br /><sub><b>영균</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
+    <td align="center"><a href="https://github.com/kimyunbin"><img src="https://avatars.githubusercontent.com/u/50879954?v=4" width="100px;" alt=""/><br /><sub><b>윤빈</b></sub><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="15" height="15"/></a><br /></td>
+  </tr>
+</table>
+</div>
 
 
 
-#### merge 방법
-
-- 로컬에서 merge하는 경우
-
-```bash
-$ git switch "본인의 branch name"
-
-$ git add .
-$ git commit -m "code : ~~~ "
-
-$ git switch master
-$ git merge "본인의 branch name"
-$ git push origin master  # 로컬에서 merge 완료
-```
-
-
-
-- 원격에서 merge하는 경우
-
-```bash
-$ git switch "본인의 branch name"
-
-$ git add .
-$ git commit -m "code : ~~~ "
-$ git push origin "본인의 branch name"
-```
-
-이후 github에서 Pull Request 합니다.
