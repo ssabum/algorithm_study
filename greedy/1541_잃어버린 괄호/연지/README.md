@@ -22,7 +22,7 @@ ex. `50+32-48+72-145+32-5-3` => `50+32-(48+72)-(145+32)-5-3`
 
 ```python
 input_lst = input().split('-')
-print(input_lst)
+
 tmp = input_lst[0].split('+')
 res = 0
 for ele in tmp:

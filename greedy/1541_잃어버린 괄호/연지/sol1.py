@@ -3,7 +3,7 @@ sys.stdin = open("input.txt")
 
 
 input_lst = input().split('-')
-print(input_lst)
+
 tmp = input_lst[0].split('+')
 res = 0
 for ele in tmp:
