@@ -7,6 +7,8 @@
 ## 👉 1. What
 Baekjoon, Programmers, Swea 등에서 Baekjoon 기준 from 실버 to 골드인 문제를 선별해서 풉니다. 
 
+- 📅 [주차별 문제 보러 가기](./problem_list.md)
+
 <br>
 
 ## 👉 2.  How
@@ -25,22 +27,18 @@ Baekjoon, Programmers, Swea 등에서 Baekjoon 기준 from 실버 to 골드인 �
 
 ### ✅  Code Convention
 
-#### ❗ README.md 에 코드 마다 이 코드는 **어떤 목적**으로 작성되었는지 주석을 답니다.
+#### ⭐ README.md 에 코드 마다 이 코드는 **어떤 목적**으로 작성되었는지 주석을 답니다.
 #### 변수와 함수 이름은 어떤 역할을 하는지 알 수 있도록 붙입니다.
 
 #### 문제를 해결한 경우 sol1, 해결하지 못한 경우 fail1로 파일 이름을 통일합니다.
 
-#### code 마지막 줄에는 한 줄을 비웁니다. git add + git commit 하기 전에 확인해보는 걸 추천합니다.
+code 마지막 줄에는 한 줄을 비웁니다. git add + git commit 하기 전에 확인해보는 걸 추천합니다.
 
 왜 ? git에 코드를 올릴 때는 코드 맨 아래에 아무것도 없는 빈 newline을 하나 만드는 게 일반적입니다.
 
 코드 맨 아래에 빈 newline이 없을 경우 경고 메시지가 나오기 때문입니다.
 
-
-
 <br>
-
-
 
 ### ✅ Commit Convention
 
@@ -52,11 +50,15 @@ fix : 코드 수정
 add : 기존에 푼 문제 대한 또 다른 솔루션 코드 추가
 merge : 내 레포에서 올린 pull request를 현재 organization의 alogorithm-study 레포에 합치기
 ```
+
+
 #### commit type이 `code`인 경우 commit message에는 다음과 같은 정보를 명시합니다.
 
 ```bash
 git commit -m "code : 자기이름 문제플랫폼 문제번호 문제유형 문제이름"  
 ```
+
+
 #### [예시]
 
 민수라는 사람이 있습니다. 민수의 branch명은 minsu입니다. 민수는 백준에서 다이나믹 프로그래밍 유형인 1003번 피보나치 함수를 풀었습니다.
@@ -74,6 +76,7 @@ git commit -m "code : minsu boj 1003 DP 피보나치함수"
 ```
 4. 추후 수정이 필요한 경우 위의 Commit Convention을 따라 commit message를 작성합니다.
 5. master 로 merge 합니다.
+
 <br>
 
 ### ✅ Commit Convention
