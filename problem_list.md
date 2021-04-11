@@ -14,8 +14,8 @@
 
 | 문제플랫폼 | 문제번호 |                        문제이름                        |  문제유형   |
 | :--------: | :------: | :----------------------------------------------------: | :---------: |
-|  baekjoon  |   1003   | [피보나치 함수](dynamic_programming/1003_피보나함수) |     DP      |
-|  baekjoon  |   1012   |    [유기농 배추](graph_traversal/1012_유기농배추)     | 그래프 탐색 |
+|  baekjoon  |   1003   | [피보나치 함수](dynamic_programming/1003_피보나치함수) |     DP      |
+|  baekjoon  |   1012   |     [유기농 배추](graph_traversal/1012_유기농배추)     | 그래프 탐색 |
 |  baekjoon  |   1074   |             [Z](divide_and_conquer/1074_Z)             |  분할정복   |
 
 <br>
